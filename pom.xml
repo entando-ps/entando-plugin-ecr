@@ -7,7 +7,7 @@
         <artifactId>entando-core-parent</artifactId>
         <version>7.0.0-ENG-3143-PR-89</version>
     </parent>
-    <artifactId>entando-plugin-jpredis</artifactId>
+    <artifactId>entando-plugin-ecr</artifactId>
     <groupId>org.entando.entando.plugins</groupId>
     <version>7.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
