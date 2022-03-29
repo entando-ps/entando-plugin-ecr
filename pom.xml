@@ -9,7 +9,7 @@
     </parent>
     <artifactId>entando-plugin-ecr</artifactId>
     <groupId>org.entando.entando.plugins</groupId>
-    <version>7.0.0-SNAPSHOT</version>
+    <version>7.0.0</version>
     <packaging>war</packaging>
     <name>Entando Plugin: Ecr integration</name>
     <description>Enables the use of ECR inside admin-console</description>
